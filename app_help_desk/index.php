@@ -50,6 +50,16 @@
 
                 <?php } ?>
 
+                <?php
+                  if (isset($_GET["login"]) && $_GET["login"] == "erro2") {
+                ?>
+                
+                <div class="text-danger text-center mb-1">
+                  Faça o login antes para ter acesso as páginas protegidas
+                </div>
+
+                <?php } ?>
+
                 <button class="btn btn-lg btn-info btn-block" type="submit">Entrar</button>
               </form>
             </div>
