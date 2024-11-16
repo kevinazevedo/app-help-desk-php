@@ -21,10 +21,16 @@
   <body>
 
     <nav class="navbar navbar-dark bg-dark">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="home.php">
         <img src="logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
         App Help Desk
       </a>
+
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link btn btn-danger pl-3 pr-3 h-25" href="logoff.php" style="color: white">Sair</a>
+        </li>  
+      </ul>
     </nav>
 
     <div class="container">    
