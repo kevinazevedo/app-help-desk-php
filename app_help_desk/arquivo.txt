@@ -1,2 +1,2 @@
-Notebook#Hardware#Bug na tela do meu Notebook Pro 15
-Erro de impressão#Impressora#Não está sendo possível imprimir os dados de novos usuários cadastrados em nosso sistema
+4#AmpliTube error#Software#Meu AmpliTube não está mais funcionando.
+3#Notebook não liga#Hardware#Meu Notebook Pro 15 não está mais ligando.
