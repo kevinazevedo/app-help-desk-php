@@ -7,7 +7,7 @@
   $chamados = array();
 
   // abrindo o arquivo
-  $arquivo = fopen("arquivo.txt", "r");
+  $arquivo = fopen("../../app_help_desk_safe/arquivo.txt", "r");
 
   // lendo as linhas do arquivo
   while(!feof($arquivo)) {
